@@ -47,4 +47,26 @@
 
 [🏠](#nav "Back home")
 
+<h2 id="test">Test 🧪</h2>
+
+[🏠](#nav "Back home")
+
+<h2 id="debug">Debug 🐜</h2>
+
+[🏠](#nav "Back home")
+
+<h2 id="scripts"> Scripts 💻 </h2>
+
+[🏠](#nav "Back home")
+
+<h2 id="dependencies">Dependencies 📁</h2>
+
+[🏠](#nav "Back home")
+
+<h2 id="screenshots">Screenshots 🖼️</h2>
+
+[🏠](#nav "Back home")
+
+
+
 <img src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1632064143/icons/pill_sakm1z.svg" alt="template" width="3%">
